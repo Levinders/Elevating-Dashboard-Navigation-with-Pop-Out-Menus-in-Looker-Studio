@@ -1,8 +1,8 @@
-# Enhancing Stakeholders Experience in Looker Studio Reports with Pop-Out Menus and Navigations
+# Enhancing Stakeholders Experience in Looker Studio Reports with Smart Pop-Out Menus and Navigations
 
 ![Nav menu](assests/nav%20menu%201.jpg)
 
-Optimizing BI reports for clarity, usability, and decision-making
+## Project Motivation
 In modern data projects, building dashboards that inform is not enough — they must also be intuitive, actionable, and user-friendly for a range of audiences. To meet that need, I developed an interactive pop-out menu navigation system in Looker Studio that elevates both the user experience (UX) and interface design (UI) of data reports.
 
 The Challenge
