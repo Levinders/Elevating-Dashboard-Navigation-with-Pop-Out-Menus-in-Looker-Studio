@@ -3,16 +3,17 @@
 ![Nav menu](assests/nav%20menu%201.jpg)
 
 ## Project Motivation
-In dashboard design, visuals often steal the spotlight — but how users navigate the report is just as important. I recently explored this idea by building a pop-out menu navigation system in Looker Studio. The goal wasn’t to show data visuals, but to demonstrate how thoughtful navigation alone can significantly improve the user experience (UX) — especially in multi-page reports used by non-technical audiences.
+In dashboard designs, visuals often steal the spotlight — but how users navigate the report is just as important. I recently explored the idea of:
 
-## Key Features
-* Pop-out Menus: Reduce visual clutter and allow users to focus on what matters. Each section of the report becomes easily accessible — without overwhelming the user with multiple charts at once.
+1. Improving report users experince by building a pop-out menu navigation system in Looker Studio
+2. One robust dashboard that contains analysis that can be easily accessed when needed
 
-Streamlined Navigation
-Users can jump directly to specific insights or sections, reducing time spent scrolling or hunting for KPIs — a major win for both technical and non-technical users.
+The goal wasn’t to show data visuals, but to demonstrate how thoughtful navigation alone can significantly improve the user experience (UX) — especially in multi-page reports used by non-technical audiences.
 
-Clean, Cohesive Design
-Visual consistency, smooth transitions, and a themed layout ensure the dashboard feels polished and easy to consume.
+## Key Features of What I Built
+* Pop-out Menus: Each section of the report becomes easily accessible — without overwhelming the user with multiple charts at once.
+* Web-like Navigation: Users can jump directly to specific insights or sections, reducing scrolling — a major win for non-technical users.
+* Clean, Cohesive Design: Visual consistency, smooth transitions, and a themed layout that ensures the dashboard feels polished and easy to consume.
 
 🎯 Business Value & Impact
 In a real-world data project, this structure supports:
