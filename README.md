@@ -42,11 +42,8 @@ In an actual data project, this navigation structure supports:
 
 ![Home and Welcome Screen](assests/actions%20pages%20-%202.jpg)
 
-### Video Demonstration
-
-
-
-[See Live Dashboard](https://lookerstudio.google.com/reporting/4422e641-b825-4143-b9be-b527795399d2)
+### [![View Demonstration](https://img.youtube.com/vi/j7B3QLhQR6A/hqdefault.jpg)](https://www.youtube.com/watch?v=j7B3QLhQR6A)
+### [See Live Dashboard](https://lookerstudio.google.com/reporting/4422e641-b825-4143-b9be-b527795399d2)
 
 ## Tools & Techniques Applied
 * Looker Studio (Data Studio)
