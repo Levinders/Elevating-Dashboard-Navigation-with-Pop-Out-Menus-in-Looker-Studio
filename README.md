@@ -52,5 +52,5 @@ In an actual data project, this navigation structure supports:
 
 ## About
 * Raphael Levinder - Data Visualization Specialist & Analyst
-* A good dashboard isn’t just about visuals — it’s also about experience.
+* A good dashboard isn’t just about visuals — it’s also about experience (UX).
 * [Linkedin](https://linkedin.com/in/raphaellevinder)
