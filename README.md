@@ -51,7 +51,6 @@ In an actual data project, this navigation structure supports:
 * Minimalist design principles - color consistency
 
 ## About
-Raphael Levinder - Data Visualization Specialist & Analyst
-A good dashboard isn’t just about visuals — it’s about experience.
-
+* Raphael Levinder - Data Visualization Specialist & Analyst
+* A good dashboard isn’t just about visuals — it’s about experience.
 * [Linkedin](https://linkedin.com/in/raphaellevinder)
