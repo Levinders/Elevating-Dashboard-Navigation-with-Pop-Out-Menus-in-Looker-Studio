@@ -1,4 +1,4 @@
-# Enhancing Stakeholder Experience in Looker Studio Reports with Pop-Out Menus and Navigations
+# Enhancing Stakeholders Experience in Looker Studio Reports with Pop-Out Menus and Navigations
 
 ![Nav menu](assests/nav%20menu%201.jpg)
 
